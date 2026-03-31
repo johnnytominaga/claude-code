@@ -2,10 +2,6 @@
 
 This directory contains the core source for the **Claude Code** terminal application (`claude`) and related runtimes (interactive TUI, headless print mode, MCP server mode, remote/bridge flows, and SDK-oriented streaming I/O).
 
-The repository remote points to:
-
-- `https://github.com/johnnytominaga/claude-code.git`
-
 ## What this project does
 
 At a high level, this codebase implements an AI coding assistant CLI with:
